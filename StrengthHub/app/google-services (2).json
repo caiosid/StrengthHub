@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621685932839",
+    "project_id": "strengthhub-be35a",
+    "storage_bucket": "strengthhub-be35a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621685932839:android:7b8c245c4a847f9e2d9f02",
+        "android_client_info": {
+          "package_name": "com.stackmobile.strengthhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621685932839-g34akiqql6tib8l5nap0h1hdp0711fka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4iEtGVbAYcw2HugIb3WFDsdLgU3d1p9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621685932839-g34akiqql6tib8l5nap0h1hdp0711fka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

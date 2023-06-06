@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StrengthHub</string>
+    <string name="Nome">Nome</string>
+    <string name="Email">Email</string>
+    <string name="Senha">Senha</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="entrar">Entrar</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="text_botao_deslogar">Deslogar</string>
+    <string name="text_botao_gravarBD">Gravar</string>
+    <string name="lerdados">Ler</string>
+</resources>

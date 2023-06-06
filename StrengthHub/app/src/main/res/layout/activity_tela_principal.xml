@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context=".view.telaprincipal.TelaPrincipal">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btdeslocar"
+        style="@style/Button"
+        android:text="@string/text_botao_deslogar"
+        android:textColor="@color/black"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="74dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_gravadados"
+        style="@style/Button"
+        android:text="@string/text_botao_deslogar"
+        android:textColor="@color/black"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="177dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bt_lerdados"
+        style="@style/Button"
+        android:text="@string/lerdados"
+        android:textColor="@color/black"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="281dp" />
+
+    <TextView
+        android:id="@+id/text_resultadoNome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=""
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="205dp"
+        tools:layout_editor_absoluteY="436dp" />
+
+    <TextView
+        android:id="@+id/text_resultadoSobrenome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=""
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="205dp"
+        tools:layout_editor_absoluteY="436dp" />
+
+    <TextView
+        android:id="@+id/text_resultadoIdade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text=""
+        android:textSize="18sp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="205dp"
+        tools:layout_editor_absoluteY="436dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
